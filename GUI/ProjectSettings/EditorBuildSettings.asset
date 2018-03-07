@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene/Pos1Select.unity
+    guid: 1570316f9d8274115b0b3d33a6e91a70
+  - enabled: 1
+    path: Assets/scene/Pos2Select.unity
+    guid: 0d38ab9999915435a896d2784695ef8f
