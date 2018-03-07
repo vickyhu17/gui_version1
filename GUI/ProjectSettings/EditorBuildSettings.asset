@@ -4,19 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/scene/Main Screen.unity
-    guid: 6287cc4792cf640e1b693be35e985ce6
-  - enabled: 1
-    path: Assets/scene/3ptlinePos.unity
-    guid: 5d2bd0bb2a4e443888584a3cc28477c3
-  - enabled: 1
-    path: Assets/scene/Force.unity
-    guid: cdb8f913a0b8441498e88f343780923d
-  - enabled: 1
-    path: Assets/scene/midrangePos.unity
-    guid: 6238058ccd44a4c4c93a1e8c75951127
-  - enabled: 1
-    path: Assets/scene/shortrgPos.unity
-    guid: 0006386d1296e445b9341e118d0a01d7
+  m_Scenes: []

@@ -1,27 +1,47 @@
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/Assembly-CSharp.dll.mdb
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/Assembly-CSharp.dll
-/Users/VVen/Desktop/untitled folder/GUI/obj/Debug/Assembly-CSharp.dll
-/Users/VVen/Desktop/untitled folder/GUI/obj/Debug/Assembly-CSharp.dll.mdb
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/UnityEngine.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/UnityEditor.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/UnityEngine.UIAutomation.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/UnityEngine.TestRunner.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/nunit.framework.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/UnityEngine.Networking.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/UnityEngine.UI.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/UnityEngine.Timeline.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/UnityEngine.HoloLens.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/UnityEngine.Analytics.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/UnityEngine.Purchasing.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/Unity.Cecil.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/Unity.SerializationLogic.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/ExCSS.Unity.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/Unity.DataContract.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/Unity.UNetWeaver.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/Unity.CecilTools.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/Unity.Cecil.Pdb.dll
-/Users/VVen/Desktop/untitled folder/GUI/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/obj/Debug/Assembly-CSharp.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEngine.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.TestRunner.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/nunit.framework.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.Timeline.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.UIAutomation.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEngine.Advertisements.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/Unity.Cecil.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/Unity.DataContract.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/VVen/Documents/GitHub/gui_version1/GUI/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
